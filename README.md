@@ -1,4 +1,4 @@
-# 💪🍈P͓̽r͓̽o͓̽ ͓̽P͓̽i͓̽e͓̽c͓̽e͓̽🍈💪
+# :muscle::melon:P͓̽r͓̽o͓̽ ͓̽P͓̽i͓̽e͓̽c͓̽e͓̽:melon::muscle:
 
 **RELEASE + PASSWORD (SCRIPT AUTOMATICALLY UPDATES VIA WEBHOST)**
 
@@ -6,10 +6,11 @@ INFO/UPDATE:
 
 -Release
 -You gotta accept what quest you want manually lol.
+-Equip a sword to farm mobs. (also works with bringing players)
 
 NOTES:
 
-Nothing yet.
+There are no fly or tp anti hacks so you can fly around the map lol.
 
 Other keys include: 
 
