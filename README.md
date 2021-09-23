@@ -7,6 +7,7 @@ INFO/UPDATE:
 -Release
 -You gotta accept what quest you want manually lol.
 -Equip a sword to farm mobs. (also works with bringing players)
+-DF water damage is automatically disabled.
 
 NOTES:
 
